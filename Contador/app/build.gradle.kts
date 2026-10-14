@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.contador"
+    namespace = "com.example.contadores"
     compileSdk {
         version = release(37)
     }

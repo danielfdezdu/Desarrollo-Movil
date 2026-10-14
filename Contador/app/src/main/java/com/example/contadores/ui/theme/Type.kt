@@ -1,4 +1,4 @@
-package com.example.contador.ui.theme
+package com.example.contadores.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

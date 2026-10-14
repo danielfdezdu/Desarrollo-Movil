@@ -1,4 +1,4 @@
-package com.example.contador.ui.theme
+package com.example.contadores.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
