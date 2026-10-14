@@ -1,4 +1,4 @@
-package com.example.contador.ui.pantallas.contador
+package com.example.contador.ui.screens
 
 import android.util.Log
 import androidx.compose.foundation.layout.Arrangement
