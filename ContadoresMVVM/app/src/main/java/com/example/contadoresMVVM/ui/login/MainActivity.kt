@@ -1,4 +1,4 @@
-package com.example.contadores2.ui.login
+package com.example.contadoresMVVM.ui.login
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -40,7 +40,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.contadores2.ui.screens.contador
+import com.example.contadoresMVVM.ui.screens.contador
 
 class MainActivity : ComponentActivity() {
 
