@@ -1,11 +1,16 @@
 package com.example.contadoresMVVM.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.example.contadoresMVVM.ui.state.ContadoresMVVMUiState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
+
+// UiState (No hace falta hacer una clase separada se puede poner aqui)
+data class ContadoresMVVMUiState(
+    val numero1: Int = 0,
+    val numero2: Int = 0
+)
 
 class ContadoresMVVMViewModel : ViewModel() {
 

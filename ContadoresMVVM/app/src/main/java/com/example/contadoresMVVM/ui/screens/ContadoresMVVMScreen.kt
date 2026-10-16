@@ -25,7 +25,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.contadoresMVVM.ui.viewmodel.ContadoresMVVMViewModel
 
 @Composable
-fun ContadorScreenRoot(
+fun ContadorScreenContent(
     viewModel: ContadoresMVVMViewModel = viewModel()
 ) {
     // Observamos el estado del ViewModel
