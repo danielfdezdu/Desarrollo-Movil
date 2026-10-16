@@ -22,11 +22,11 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.contadoresMVVM.ui.viewmodel.ContadoresViewModel
+import com.example.contadoresMVVM.ui.viewmodel.ContadoresMVVMViewModel
 
 @Composable
 fun ContadorScreenRoot(
-    viewModel: ContadoresViewModel = viewModel()
+    viewModel: ContadoresMVVMViewModel = viewModel()
 ) {
     // Observamos el estado del ViewModel
     val uiState by viewModel.uiState.collectAsState()
@@ -36,7 +36,7 @@ fun ContadorScreenRoot(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        contadorScreen(
+        contadoresMVVMScreen(
             valor1 = uiState.numero1,
             valor2 = uiState.numero2,
             operacion1 = { viewModel.incrementar1() },
@@ -49,7 +49,7 @@ fun ContadorScreenRoot(
 }
 
 @Composable
-fun contadorScreen(
+fun contadoresMVVMScreen(
     valor1: Int,
     valor2: Int,
     operacion1: () -> Unit,
@@ -99,7 +99,6 @@ fun contadorScreen(
 }
 
 // Función que chamará aos elementos a pintar
-
 @Composable
 fun boton(incrementar : () -> Unit) {    // Será a operación de incremento dunha variable
     Button(
