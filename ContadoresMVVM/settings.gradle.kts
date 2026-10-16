@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Contador"
+rootProject.name = "ContadoresMVVM"
 include(":app")
  
