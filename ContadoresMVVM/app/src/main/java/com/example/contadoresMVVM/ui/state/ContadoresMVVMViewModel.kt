@@ -1,7 +1,6 @@
-package com.example.contador.ui.state
+package com.example.contadoresMVVM.ui.state
 
 import androidx.lifecycle.ViewModel
-import com.example.contadoresMVVM.ui.state.ContadoresMVVMUiState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
