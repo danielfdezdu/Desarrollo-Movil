@@ -40,7 +40,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.contadoresMVVM.ui.screens.contador
 
 class MainActivity : ComponentActivity() {
 
@@ -48,7 +47,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
 
-            contador()
+
 
             // Usamos el Scaffold para organizar toda la interfaz de la pantalla
 

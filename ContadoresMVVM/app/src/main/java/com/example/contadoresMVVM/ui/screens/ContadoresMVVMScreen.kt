@@ -14,41 +14,36 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.saveable.rememberSaveable
-import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import androidx.lifecycle.viewmodel.compose.viewModel
+import com.example.contadoresMVVM.ui.viewmodel.ContadoresViewModel
 
 @Composable
-fun contador() {
-
-    var numero1 by rememberSaveable {
-        mutableStateOf(0)
-    }
-    var numero2 by rememberSaveable {
-        mutableStateOf(0)
-    }
+fun ContadorScreenRoot(
+    viewModel: ContadoresViewModel = viewModel()
+) {
+    // Observamos el estado del ViewModel
+    val uiState by viewModel.uiState.collectAsState()
 
     Column(
         modifier = Modifier.fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        // Aquí irá a chamada á función que pintará os elementos da pantalla
         contadorScreen(
-            valor1 = numero1,
-            valor2 = numero2,
-            operacion1 = {numero1++},
-            operacion2 = {numero2++},
-            eliminar1 = {numero1 = 0},
-            eliminar2 = {numero2 = 0},
-            eliminar3 = {numero1 = 0
-                         numero2 = 0}
+            valor1 = uiState.numero1,
+            valor2 = uiState.numero2,
+            operacion1 = { viewModel.incrementar1() },
+            operacion2 = { viewModel.incrementar2() },
+            eliminar1 = { viewModel.reiniciar1() },
+            eliminar2 = { viewModel.reiniciar2() },
+            eliminar3 = { viewModel.reiniciarTodo() }
         )
     }
 }
