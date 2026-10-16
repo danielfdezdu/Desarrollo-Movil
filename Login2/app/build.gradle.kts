@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.login2"
+    namespace = "com.example.loginPassword"
     compileSdk {
         version = release(37)
     }

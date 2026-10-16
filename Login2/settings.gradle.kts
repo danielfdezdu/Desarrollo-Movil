@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Login2"
+rootProject.name = "LoginPassword"
 include(":app")
  

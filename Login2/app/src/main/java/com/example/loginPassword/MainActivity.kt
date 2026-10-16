@@ -1,4 +1,4 @@
-package com.example.login2
+package com.example.loginPassword
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
