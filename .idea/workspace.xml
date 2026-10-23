@@ -4,7 +4,62 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7db711f7-e4f5-4b86-99ff-6243162e4005" name="Changes" comment="Commit" />
+    <list default="true" id="7db711f7-e4f5-4b86-99ff-6243162e4005" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/androidTest/java/com/example/listasmvvm/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/java/com/example/listasmvvm/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/java/com/example/listasmvvm/ui/screens/ListasMVVMScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/java/com/example/listasmvvm/ui/state/ListasMVVMUiState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/java/com/example/listasmvvm/ui/state/ListasMVVMViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/java/com/example/listasmvvm/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/java/com/example/listasmvvm/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/java/com/example/listasmvvm/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/keepRules/rules.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/app/src/test/java/com/example/listasmvvm/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/gradle/gradle-daemon-jvm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListasMVVM/ListasMVVM/settings.gradle.kts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,18 +93,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\danie\StudioProjects\Desarrollo-Movil" />
@@ -87,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1792769749905</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1792770314542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1792770314542</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1792770409000</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792770409000</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
