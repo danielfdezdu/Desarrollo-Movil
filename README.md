@@ -15,7 +15,7 @@ Repositorio que recopila las prácticas, proyectos y ejercicios realizados en el
 
 * **Lenguajes:** Kotlin
 * **Frameworks & SDKs:** Android SDK / Jetpack Compose
-* **Entorno de Desarrollo (IDE):** Android Studio / VS Code
+* **Entorno de Desarrollo (IDE):** Android Studio
 
 ## 👨‍💻 Autor
 
