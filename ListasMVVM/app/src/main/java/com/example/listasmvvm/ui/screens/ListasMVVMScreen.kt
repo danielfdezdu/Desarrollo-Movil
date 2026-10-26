@@ -94,7 +94,7 @@ fun ListasMVVMScreen(
                     Box(
                         modifier = Modifier
                             .size(70.dp)
-                            .background(Color(0xFF4A484F)),
+                            .background(Color(0xFF53398C), shape = RoundedCornerShape(10.dp)),
                         contentAlignment = Alignment.Center
                     ) {
                         Icon(
